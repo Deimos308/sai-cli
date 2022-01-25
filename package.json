@@ -1,0 +1,24 @@
+{
+  "name": "sai-cli",
+  "version": "0.0.1",
+  "description": "NodeJS CLI tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deimos308/sai-cli.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "devtool",
+    "cli"
+  ],
+  "author": "Deimos308",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Deimos308/sai-cli/issues"
+  },
+  "homepage": "https://github.com/Deimos308/sai-cli#readme"
+}
