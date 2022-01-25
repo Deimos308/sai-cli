@@ -8,6 +8,10 @@
 *.sw?
 *.code-workspace
 
+# node packages
+node_modules
+package-lock.json
+
 # Local files
 local/
 
@@ -15,5 +19,11 @@ local/
 temp/
 tmp/
 
-#logs
+# logs
 *.log
+
+# Code coverage
+/coverage
+
+# Builds, dists
+/dist
